@@ -1,0 +1,113 @@
+    1  ls
+    2  ll
+    3  w
+    4  who
+    5  l
+    6  pwd
+    7  git --version
+    8  git config --globa user.email"pangamuthu@v2soft.comm"
+    9  git config --globa user.name"parameshwaran"
+   10  git connfig --global user.name
+   11  git config --global user.name
+   12  git config --globa user.email "pangamuthu@v2soft.comm"
+   13  git config --globa user.name "parameshwaran"
+   14  git config --global user.name
+   15  git config --globa user.email
+   16  git config --globa user.email "pangamuthu@v2soft.com"
+   17  git config --globa user.email
+   18  cd 
+   19  cd /d
+   20  ,s
+   21  ls
+   22  cd Git/
+   23  ls
+   24  cd myfolder/
+   25  git init
+   26  git status
+   27  touch test
+   28  git status
+   29  git add test 
+   30  git status
+   31  git commit
+   32  git commit -m
+   33  git commit -m "add test"
+   34  git status
+   35  touch index.html
+   36  git status
+   37  vi test
+   38  git status
+   39  git status
+   40  git add.
+   41  git add.
+   42  git status
+   43  git add .
+   44  git add .
+   45  git status
+   46  git commit -m "added index.html | modified test"
+   47  git remote add origin https://github.com/logoeshwar/repo1.git
+   48  git push -u origin mastere
+   49  git push -u origin master
+   50  git --help
+   51  git log
+   52  git --l
+   53  history
+   54  history>hist.txt
+   55  git branch
+   56  git branch mybranch
+   57  git checkout mybranch
+   58  touch test1.txt
+   59  git status
+   60  git add .
+   61  git commit -m "hist&tesr1"
+   62  git push -u origin mybranch 
+   63  git checkout master
+   64  git merge mybranch 
+   65  ls
+   66  git push -u origin master
+   67  git branch -d mybranch m
+   68  git branch -d mybranch 
+   69  git branch -d mybranch
+   70  git push origin --delete mybranch
+   71  git status
+   72  git test2
+   73  touch test2
+   74  git add test2
+   75  git status
+   76  git commit -m "test2 file created"
+   77  git push -u origin master
+   78  git tag v1.0
+   79  git tag
+   80  git push origin v1.o
+   81  git push origin v1.0
+   82  git tag v1.0
+   83  git tag --delete v1.0
+   84  git push origin tag --delete v1.0
+   85  git loh
+   86  git lgo
+   87  git log
+   88  ls
+   89  touch test3
+   90  get status
+   91  git status
+   92  git add .
+   93  git status
+   94  git commit -m "added test3"
+   95  git remote add origin https://github.com/logoeshwar/repo1.git
+   96  git push -u origin master
+   97  git branch "mybranch"
+   98  git checkout mybranch 
+   99  touch reverse.txt
+  100  git status
+  101  git add .
+  102* 
+  103  git status
+  104  git push -u origin mybranch 
+  105  git checkout master 
+  106  ls
+  107  git merge mybranch 
+  108  git push -u origin master
+  109  git pull -u origin 
+  110  git pull -u origin master
+  111  git pull
+  112  git push -u origin master
+  113  history > hist2,txt

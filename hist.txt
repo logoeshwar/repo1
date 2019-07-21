@@ -50,5 +50,4 @@
    50  git --help
    51  git log
    52  git --l
-   53  history
-   54  history>hist.txt
+
